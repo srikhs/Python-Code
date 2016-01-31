@@ -1,3 +1,4 @@
+# This is solution to https://www.hackerrank.com/contests/worldcodesprint/challenges/bear-and-cryptography
 import sys
 import math
 import operator

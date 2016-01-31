@@ -1,5 +1,6 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 #!/bin/python
+# This is solution to https://www.hackerrank.com/challenges/grid-challenge
 import operator
 import sys
 a=sys.stdin
